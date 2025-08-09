@@ -22,4 +22,4 @@ To view this CV locally, follow these steps:
    git clone https://github.com/Binod1028/FrontEnd.git
 
 ## Project Page URL
-[CV](http://127.0.0.1:5500/index.html#education)
+[CV](https://roadmap.sh/projects/single-page-cv)
